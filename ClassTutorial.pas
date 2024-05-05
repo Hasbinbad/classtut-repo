@@ -48,5 +48,5 @@ begin
   memOutput.Lines.Add(inttostr(Person.GetAge));
   memOutput.Lines.Add(Person.GetGender);
 end;
-   //wtf                    ddddddd
+   //wtf                    ddddddd      sssssss
 end.
